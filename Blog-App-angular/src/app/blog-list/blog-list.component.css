@@ -1,0 +1,25 @@
+
+
+.blog-list-container {
+    width: 800px;
+    margin: 0 auto;
+  }
+  
+  .blog-post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #FF0000;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #CC0000;
+  }
+  
